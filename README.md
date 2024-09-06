@@ -52,3 +52,33 @@
 <p align="left">
   Currently diving into **[GraphQL](https://graphql.org)** and **[Docker](https://www.docker.com)**.
 </p>
+
+<h3 align="left">Profile Badge:</h3>
+<p align="left">
+  ![Badge](https://img.shields.io/badge/Expert-MERN%20Stack-brightgreen?style=for-the-badge&logo=react&logoColor=white)
+</p>
+
+<h3 align="left">GitHub Activity:</h3>
+<p align="left">
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true)
+</p>
+
+<h3 align="left">Favorite Quotes:</h3>
+<p align="left">
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House<br />
+  "First, solve the problem. Then, write the code." – John Johnson
+</p>
+
+<h3 align="left">Personal Projects Showcase:</h3>
+<p align="left">
+  <img src="https://via.placeholder.com/150" alt="Project 1 Demo" />
+  <a href="https://github.com/yourusername/project1" target="_blank">Project 1</a> – A brief description or demo of Project 1.<br />
+  <img src="https://via.placeholder.com/150" alt="Project 2 Demo" />
+  <a href="https://github.com/yourusername/project2" target="_blank">Project 2</a> – A brief description or demo of Project 2.<br />
+</p>
+
+<h3 align="left">Interactive Widget:</h3>
+<p align="left">
+  <!-- Simple trivia quiz example -->
+  <a href="https://trivia-game-link.com" target="_blank">Play a quick coding trivia quiz!</a>
+</p>
