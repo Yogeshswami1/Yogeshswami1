@@ -25,43 +25,38 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yogeshswami1&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_title=true&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">Pinned Projects:</h3>
+
+
+
+<h3 align="left">Visitor Badge:</h3>
 <p align="left">
-  <a href="https://github.com/yourusername/project1" target="_blank">Project 1</a> - Brief description of Project 1.<br />
-  <a href="https://github.com/yourusername/project2" target="_blank">Project 2</a> - Brief description of Project 2.<br />
-  <!-- Add more projects as needed -->
+  ![Visitor Badge](https://img.shields.io/badge/Visitors-Thanks%20for%20stopping%20by!-blue)
 </p>
 
-<h3 align="left">Achievements & Certifications:</h3>
+<h3 align="left">GitHub Contributions:</h3>
 <p align="left">
-  - **Certified MERN Stack Developer** from [Certification Body](#) - Month Year<br />
-  - **Top Contributor** at [Open Source Project](#) - Month Year<br />
-  <!-- Add more achievements and certifications as needed -->
+  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
 </p>
 
-<h3 align="left">Visitor Counter:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+  ![GitHub Stars](https://img.shields.io/github/stars/yourusername?style=social)
+  ![GitHub Forks](https://img.shields.io/github/forks/yourusername?style=social)
+  ![GitHub Repositories](https://img.shields.io/github/followers/yourusername?style=social)
 </p>
 
-<h3 align="left">Languages I'm Learning:</h3>
-<p align="left">
-  Currently diving into **[GraphQL](https://graphql.org)** and **[Docker](https://www.docker.com)**.
-</p>
+
 
 <h3 align="left">Profile Badge:</h3>
 <p align="left">
   ![Badge](https://img.shields.io/badge/Expert-MERN%20Stack-brightgreen?style=for-the-badge&logo=react&logoColor=white)
 </p>
 
-<h3 align="left">GitHub Activity:</h3>
-<p align="left">
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true)
-</p>
+
 
 <h3 align="left">Favorite Quotes:</h3>
 <p align="left">
@@ -69,13 +64,7 @@
   "First, solve the problem. Then, write the code." – John Johnson
 </p>
 
-<h3 align="left">Personal Projects Showcase:</h3>
-<p align="left">
-  <img src="https://via.placeholder.com/150" alt="Project 1 Demo" />
-  <a href="https://github.com/yourusername/project1" target="_blank">Project 1</a> – A brief description or demo of Project 1.<br />
-  <img src="https://via.placeholder.com/150" alt="Project 2 Demo" />
-  <a href="https://github.com/yourusername/project2" target="_blank">Project 2</a> – A brief description or demo of Project 2.<br />
-</p>
+
 
 <h3 align="left">Interactive Widget:</h3>
 <p align="left">
